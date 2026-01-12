@@ -1,0 +1,16 @@
+# Ignore version control directories
+.git
+.gitignore
+.idea
+
+# Ignore development/build artifacts and cache files
+node_modules
+dist
+target
+__pycache__
+*.pyc
+
+# Ignore log and environment files
+*.log
+.env
+.aws/
