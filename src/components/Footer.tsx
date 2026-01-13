@@ -19,7 +19,7 @@ function Footer() {
                 </div>
             </div>
             <p className="py-4 text-end border-t mt-6 border-slate-200">
-                Copyright 2025 &copy; Plum General LLC All Right Reserved.
+                Copyright 2026 &copy; Plum General LLC All Right Reserved.
             </p>
         </footer>
     );
