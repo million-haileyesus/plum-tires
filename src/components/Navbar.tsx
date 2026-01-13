@@ -25,7 +25,7 @@ function Navbar() {
                                 <Link to="about"
                                       className="block py-2 text-[14px] sm:text-[16px] lg:text-[20px] font-[Poppins Extra Light] text-black hover:text-[#8C3e90]"
                                 >
-                                    About
+                                    About Us
                                 </Link>
                             </li>
                             <li>
@@ -33,7 +33,7 @@ function Navbar() {
                                     to="footer"
                                     className="block py-2 text-[14px] sm:text-[16px] lg:text-[20px] font-[Poppins Extra Light] text-black hover:text-[#8C3e90]"
                                 >
-                                    Contact
+                                    Contact Us
                                 </Link>
                             </li>
                         </ul>
