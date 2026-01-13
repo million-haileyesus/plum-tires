@@ -8,7 +8,7 @@ function AboutUs() {
                     <h3 className="text-3xl md:text-6xl text-black font-bold font-[Space Grotesk]">
                         Our Mission
                     </h3>
-                    <p className="text-xs md:text-lg text-black font-normal font-[Poppins Extra Light] mt-4">
+                    <p className="text-sm md:text-lg text-black font-normal font-[Poppins Extra Light] mt-4">
                         PLUM Tires is dedicated to providing a wide
                         selection of affordable and accessible tire options to
                         meet all your needs. Our commitment is to ensure you
